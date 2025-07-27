@@ -8,7 +8,7 @@ This project implements a full-stack AI-powered chatbot that allows users to upl
 
 Here's a high-level overview of the system architecture:
 
-![System Design Diagram Placeholder](https://via.placeholder.com/800x450?text=System+Design+Diagram)
+![System Design Diagram Placeholder](system-design.png)
 *Replace this placeholder with an actual diagram of your system. You can create one using tools like Draw.io, Lucidchart, Excalidraw, or even simple block diagrams.*
 
 **Key Components:**

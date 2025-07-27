@@ -1,5 +1,6 @@
 import FileUploadComponent from './components/file-upload';
 import ChatComponent from './components/chat';
+
 export default function Home() {
   return (
     <div>
